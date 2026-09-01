@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 💻 Full-Stack Developer specializing in **React, Django, and Express.js**.
-- 🤝 Software Engineering Mentor guiding upcoming developers at **Zindua Coding School**.
+- 🤝 Mentor guiding upcoming developers at **Zindua Coding School**.
 - 🛠️ Currently building workflow automation and financial platforms.
 - ⚽ Football fanatic & active player.
 - 🪂 Skydiving enthusiast.
