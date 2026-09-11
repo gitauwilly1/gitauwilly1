@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Gitau</h1>
-<h3 align="center">Full-Stack Developer | Mentor</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/william-gitau/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,7 +15,6 @@
 ### 🚀 About Me
 
 - 💻 Full-Stack Developer specializing in **React, Django, and Node.js/Express.js**.
-- 🤝 Mentor guiding upcoming developers at **Zindua Coding School**.
 - 🛠️ Currently building workflow automation and financial platforms.
 - ⚽ Football fanatic & active player.
 - 🪂 Skydiving enthusiast.
